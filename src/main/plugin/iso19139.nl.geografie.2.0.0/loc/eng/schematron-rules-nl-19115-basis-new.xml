@@ -1,0 +1,34 @@
+<strings>
+  <fileIdentifier>Er is geen Metadata ID (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#metadata-unieke-identifier) opgegeven.</fileIdentifier>
+  <hierarchyLevel>Metadata hierarchieniveau (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#hi%C3%ABrarchieniveau) ontbreekt of heeft een verkeerde waarde</hierarchyLevel>
+  <metadataLanguage>De metadata taal (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#taal-van-de-metadata) ontbreekt of heeft een verkeerde waarde. Dit hoort een waarde en verwijzing naar de codelijst te zijn.</metadataLanguage>
+  <contactOrganisationName>Naam en/of de URI (in geval van een Anchor) van de organisatie metadata (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#verantwoordelijke-organisatie-metadata) ontbreekt.</contactOrganisationName>
+  <contactRolINSPIRE>Rol organisatie metadata (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#verantwoordelijke-organisatie-bron:-rol) ontbreekt of heeft een verkeerde waarde, deze dient voor INSPIRE contactpunt te zij</contactRolINSPIRE>
+  <contactEmail>E-mail organisatie metadata (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#verantwoordelijke-organisatie-metadata:-e-mail) ontbreekt</contactEmail>
+  <dateStamp>Metadata datum (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#metadatadatum) ontbreekt of heeft het verkeerde formaat (YYYY-MM-DD)</dateStamp>
+  <metadataStandardName>Metadatastandaard naam (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#metadata-standaard-naam) ontbreekt of is niet correct ingevuld, Metadatastandaard naam dient de waarde 'ISO 19115' te hebbe</metadataStandardName>
+  <metadataStandardVersion>Versie metadatastandaard  (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#metadatastandaard-versie) ontbreekt of is niet correct ingevuld, Metadatastandaard versie dient de waarde 'Nederlands metadata profiel op ISO 19115 voor geografie 2.0' te bevatten</metadataStandardVersion>
+  <referenceSystemCode>Code referentiesysteem (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#codereferentiesysteem) ontbreekt</referenceSystemCode>
+  <referenceSystemCodeURI>Code referentiesysteem (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#codereferentiesysteem) waarde en/of URI ontbreekt</referenceSystemCodeURI>
+
+  <datasetTitle>Dataset titel (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#titel-van-de-bron) ontbreekt</datasetTitle>
+  <datasetAbstract>Samenvatting (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#samenvatting) ontbreekt</datasetAbstract>
+  <datasetUniqueIdentifier>Unieke Identifier van de bron (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#unieke-identifier-van-de-bron) ontbreekt</datasetUniqueIdentifier>
+  <datasetUniqueIdentifierURI>Unieke Identifier van de bron (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#unieke-identifier-van-de-bron) met een URI moet beginnen met HTTP</datasetUniqueIdentifierURI>
+  <datasetLanguage>Taal van de bron (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#taal-van-de-bron) is verplicht, maar ontbreekt of heeft een verkeerde waarde. Dit hoort een waarde en verwijzing naar de codelijst te zijn.</datasetLanguage>
+  <datasetPointOfContactOrganisationName>Verantwoordelijke organisatie bron (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#verantwoordelijke-organisatie-bron) ontbreekt</datasetPointOfContactOrganisationName>
+  <datasetPointOfContactEmail>E-mail verantwoordelijke organisatie bron (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#verantwoordelijke-organisatie-bron-email) ontbreekt</datasetPointOfContactEmail>
+  <datasetPointOfContactRol>Rol verantwoordelijke organisatie bron (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#verantwoordelijke-organisatie-bron:-rol) ontbreekt of heeft een verkeerde waarde</datasetPointOfContactRol>
+  <useLimitation>Gebruiksbeperkingen (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#gebruiksbeperkingen) ontbreken</useLimitation>
+
+  <topicCategory>Onderwerp (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#onderwerp) ontbreekt of heeft een verkeerde waarde</topicCategory>
+  <keyword>Trefwoorden (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#trefwoord) ontbreken</keyword>
+
+  <spatialResolution>Toepassingsschaal (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#toepassingsschaal) of Resolutie (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#resolutie) ontbreekt, vul een van deze in</spatialResolution>
+  <spatialResolutionDenominator>Toepassingsschaal (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#toepassingsschaal) heeft een verkeerde waarde, toepassingsschaal is niet numeriek of is leeg.</spatialResolutionDenominator>
+  <spatialResolutionDistance>Resolutie (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#resolutie) heeft een verkeerde waarde, resolutie is niet numeriek of is leeg</spatialResolutionDistance>
+  <spatialResolutionDistanceUnits>Resolutie (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#resolutie) heeft geen of een verkeerde waarde voor Unit of measure, de waarde moet meters zijn.</spatialResolutionDistanceUnits>
+
+  <dataQualityScope>Niveau kwaliteitsbeschrijving (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#niveau-kwaliteitsbeschrijving) ontbreekt</dataQualityScope>
+  <dataQualityStatement>Algemene beschrijving herkomst (https://docs.geostandaarden.nl/md/mdprofiel-iso19115/#algemene-beschrijving-herkomst) ontbreekt</dataQualityStatement>
+</strings>
